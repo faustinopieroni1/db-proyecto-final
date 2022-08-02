@@ -4,6 +4,23 @@
 }
 
 .carousel-inner img{
-max-width: 50%;
+max-width: 70%;
 }
-  
+
+/* MEDIAS */
+
+/* md */
+@media (min-width: 768px){
+    .carousel-inner img{
+     max-width: 50%;
+    }
+ }
+
+
+ /* lg */
+@media (min-width: 992px){
+   .carousel-inner img{
+    max-width: 30%;
+   }
+}
+
