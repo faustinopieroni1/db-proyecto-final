@@ -1,13 +1,4 @@
 /*VINCULACION DE PARTIALS*/
-.banner img {
-  max-width: 40%; }
-
-.navBar {
-  font-size: 130%; }
-
-.carousel-inner img {
-  max-width: 70%; }
-
 /* md */
 @media (min-width: 768px) {
   .carousel-inner img {
@@ -17,3 +8,12 @@
 @media (min-width: 992px) {
   .carousel-inner img {
     max-width: 30%; } }
+
+.banner img {
+  max-width: 40%; }
+
+.navBar {
+  font-size: 130%; }
+
+.carousel-inner img {
+  max-width: 70%; }
