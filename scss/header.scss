@@ -1,11 +1,19 @@
-.banner img{
+.banner img {
     max-width: 40%;
 }
 
-.navBar{
+.navBar {
     font-size: 130%;
 }
 
-.carousel-inner img{
-max-width: 70%;
+.carousel-inner img {
+    max-width: 55%
+}
+
+@media (min-width:992px){
+
+    .carousel-inner img {
+        max-width: 34%
+    }
+
 }

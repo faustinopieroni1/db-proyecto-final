@@ -16,4 +16,14 @@
   font-size: 130%; }
 
 .carousel-inner img {
-  max-width: 70%; }
+  max-width: 55%; }
+
+@media (min-width: 992px) {
+  .carousel-inner img {
+    max-width: 34%; } }
+
+footer span {
+  font-size: 150%; }
+
+footer i {
+  font-size: 140%; }
