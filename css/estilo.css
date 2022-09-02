@@ -1,4 +1,22 @@
 /*VINCULACION DE PARTIALS*/
+.header .banner img {
+  max-width: 40%; }
+
+.header i {
+  font-size: 200%; }
+
+.navBar {
+  font-size: 130%; }
+
+.carousel-inner img {
+  max-width: 55%; }
+
+footer span {
+  font-size: 150%; }
+
+footer i {
+  font-size: 140%; }
+
 /* md */
 @media (min-width: 768px) {
   .carousel-inner img {
@@ -8,22 +26,3 @@
 @media (min-width: 992px) {
   .carousel-inner img {
     max-width: 30%; } }
-
-.banner img {
-  max-width: 40%; }
-
-.navBar {
-  font-size: 130%; }
-
-.carousel-inner img {
-  max-width: 55%; }
-
-@media (min-width: 992px) {
-  .carousel-inner img {
-    max-width: 34%; } }
-
-footer span {
-  font-size: 150%; }
-
-footer i {
-  font-size: 140%; }

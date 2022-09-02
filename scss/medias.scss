@@ -1,13 +1,15 @@
 /* md */
-@media (min-width: 768px){
-    .carousel-inner img{
-     max-width: 50%;
-    }
- }
+@media (min-width: 768px) {
 
- /* lg */
-@media (min-width: 992px){
-   .carousel-inner img{
-    max-width: 30%;
+   .carousel-inner img {
+      max-width: 50%;
+   }
+}
+
+/* lg */
+@media (min-width: 992px) {
+
+   .carousel-inner img {
+      max-width: 30%;
    }
 }

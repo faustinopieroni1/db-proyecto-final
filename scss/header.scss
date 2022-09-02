@@ -1,6 +1,15 @@
-.banner img {
-    max-width: 40%;
+.header {
+
+    .banner img {
+        max-width: 40%;
+    }
+
+    i{
+        font-size: 200%;
+    }
 }
+
+
 
 .navBar {
     font-size: 130%;
@@ -10,10 +19,7 @@
     max-width: 55%
 }
 
-@media (min-width:992px){
 
-    .carousel-inner img {
-        max-width: 34%
-    }
 
-}
+    
+   
