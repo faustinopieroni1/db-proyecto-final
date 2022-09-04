@@ -48,3 +48,7 @@ footer i {
 @media (min-width: 992px) {
   .carousel-inner img {
     max-width: 30%; } }
+
+/*ESTILOS GENERALES*/
+h1 {
+  font-size: x-large; }
